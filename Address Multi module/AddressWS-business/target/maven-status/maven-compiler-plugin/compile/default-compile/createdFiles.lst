@@ -1,0 +1,8 @@
+com\karco\business\UserServiceImpl.class
+com\karco\business\VehiculeBusinessImpl.class
+com\karco\business\AddressBusinessImpl.class
+com\karco\interfaces\AddressBusiness.class
+com\karco\interfaces\DemandeBusiness.class
+com\karco\business\DemandeBusinessImpl.class
+com\karco\interfaces\UserBusiness.class
+com\karco\interfaces\VehiculeBusiness.class
