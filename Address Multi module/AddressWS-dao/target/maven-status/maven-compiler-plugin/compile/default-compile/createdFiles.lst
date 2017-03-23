@@ -1,0 +1,8 @@
+com\karco\dao\DemandeRepository.class
+com\karco\dao\UserRepository.class
+com\karco\entities\Address.class
+com\karco\dao\VehiculeRepository.class
+com\karco\entities\Vehicule.class
+com\karco\entities\User.class
+com\karco\dao\AddressRepository.class
+com\karco\entities\Demande.class
