@@ -1,0 +1,4 @@
+com\karco\services\UserBusinessRestService.class
+com\karco\services\DemandeBusinessRestService.class
+com\karco\services\VehiculeBusinessRestService.class
+com\karco\services\AddressBusinessRestService.class
